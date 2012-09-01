@@ -30,7 +30,7 @@ Simple table renderer for data in json format
 		config).render();
 		
 ## methods create(sId, aColumns, aData, oConfig)
-	* `sId` Container id
-	* `aColumns` Array of object with properties key and label
-	* `aData` Array of object
-	* `oConfig` See example above
+* `sId` Container id
+* `aColumns` Array of object with properties key and label
+* `aData` Array of object
+* `oConfig` See example above
